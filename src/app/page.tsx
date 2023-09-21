@@ -17,7 +17,7 @@ export default function Home() {
       
     <section className=' flex justify-between bg-[url("https://img.freepik.com/fotos-gratis/foto-interior-da-bela-funcionaria-afro-americana-feliz-bonita-em-pe-isolada-no-branco-sorrindo-alegremente-mantendo-os-bracos-cruzados-relaxando-dentro-de-casa-apos-o-trabalho_176420-10369.jpg?w=1060&t=st=1695228002~exp=1695228602~hmac=0005e7e273ba8d5d8a2c0a11db1e7854bd3d6595e3c6c63f643a0585f7378c9f")] h-[800px] pt-80 pl-10 bg-cover'>
       <span className='text-blue-950 text-8xl font-sans font-bold '>
-        <span className='text-blue-500'>Our</span>
+        <span className='text-blue-500'>Our </span>
          product <p>admin system </p>
       </span>
     </section>
